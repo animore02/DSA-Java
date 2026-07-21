@@ -1,4 +1,3 @@
-package Arrays;
 /*
 Problem:
 1. Two Sum
